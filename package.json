@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "nuxt": "npm:nuxt3@3.4.1-28023018.b011d3d7",
-    "@nuxt-themes/alpine": "^1.5.0",
+    "@nuxt-themes/alpine": "^1.6.5",
     "@nuxthq/studio": "npm:@farnabaz/studio@latest"
   }
 }
